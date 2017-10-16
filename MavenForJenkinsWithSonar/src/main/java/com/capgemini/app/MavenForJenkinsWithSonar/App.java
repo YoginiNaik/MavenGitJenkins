@@ -1,4 +1,4 @@
-package com.capgemini.app.MavenForJenkinsWithSonar;
+package com.capgemini.app.mavendemo;
 
 /**
  * Hello world!
